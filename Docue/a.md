@@ -57,3 +57,11 @@ Melax has major.
 Melax is govern Mark Most xross.
 
 Melax total done is Mark Most xross.
+
+Melax word has spell.
+The spell is:
+"M" for Mark Most.
+"e" for endgame path.
+"l" for life radius.
+"a" for any class.
+"x" for xross all.
