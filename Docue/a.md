@@ -65,3 +65,7 @@ The spell is:
 "l" for life radius.
 "a" for any class.
 "x" for xross all.
+
+Melax word has pronounce.
+Melax word "me" is pronounce same as word "me" in English.
+Melax word "lax" is pronounce same as word "lax" in English.
