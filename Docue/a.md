@@ -62,6 +62,8 @@ Melax path is Endgame.
 
 Melax intra civil path and inter civil path is Endgame.
 
+Melax path is not interm.
+
 Melax word has spell.
 The spell is:
 "M" for Mark Most.
