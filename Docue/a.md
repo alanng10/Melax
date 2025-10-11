@@ -58,6 +58,8 @@ Melax is govern Mark Most xross.
 
 Melax total done is Mark Most xross.
 
+Melax path is Endgame.
+
 Melax word has spell.
 The spell is:
 "M" for Mark Most.
