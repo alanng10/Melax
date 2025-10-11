@@ -60,6 +60,8 @@ Melax total done is Mark Most xross.
 
 Melax path is Endgame.
 
+Melax intra civil path and inter civil path is Endgame.
+
 Melax word has spell.
 The spell is:
 "M" for Mark Most.
