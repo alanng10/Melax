@@ -66,6 +66,8 @@ Melax path is not interm.
 
 Melax require Mark Park total done and endgame info and xross info.
 
+Mark Park total done is require as Care done Info by SERA is path to certain.
+
 Melax word has spell.
 The spell is:
 "M" for Mark Park.
