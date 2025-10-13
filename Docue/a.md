@@ -54,9 +54,9 @@ Melax has park cross.
 
 Melax has major.
 
-Melax is govern Mark Most xross.
+Melax is govern Mark Park xross.
 
-Melax total done is Mark Most xross.
+Melax total done is Mark Park xross.
 
 Melax path is Endgame.
 
@@ -68,7 +68,7 @@ Melax require MARK PARK total done and endgame info and xross info.
 
 Melax word has spell.
 The spell is:
-"M" for Mark Most.
+"M" for Mark Park.
 "e" for endgame path.
 "l" for life radius.
 "a" for any class.
