@@ -54,9 +54,9 @@ Melax has park cross.
 
 Melax has major.
 
-Melax is govern Mark Park xross.
+Melax is govern MARK PARK xross.
 
-Melax total done is Mark Park xross.
+Melax total done is MARK PARK xross.
 
 Melax path is Endgame.
 
@@ -64,9 +64,9 @@ Melax intra civil path and inter civil path is Endgame.
 
 Melax path is not interm.
 
-Melax require Mark Park total done and endgame info and xross info.
+Melax require MARK PARK total done and endgame info and xross info.
 
-Mark Park total done is require as Care done Info by SERA is path to certain.
+MARK PARK total done is require as Care done Info by SERA is path to certain.
 
 Melax word has spell.
 The spell is:
