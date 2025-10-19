@@ -64,9 +64,12 @@ Melax intra civil path and inter civil path is Endgame.
 
 Melax path is not interm.
 
-Melax require MARK MARK MARK PARK MARK total done and endgame info and xross info and certain info.
+Melax require Seer MARK MARK MARK PARK MARK MARK total done and endgame info and xross info and certain info.
 
-MARK MARK MARK PARK MARK total done is require as Care done Info by SERA is path to certain.
+Seer total done is require as Seer orn more high only has will to done Endgame share
+after total done progres require.
+
+MARK MARK MARK PARK MARK MARK total done is require as Care done Info by SERA is path to certain.
 
 Melax word has spell.
 The spell is:
